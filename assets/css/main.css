@@ -2927,7 +2927,7 @@
 			-webkit-transition: opacity 1s ease-in-out, -webkit-transform 0.75s ease-in-out;
 			-ms-transition: opacity 1s ease-in-out, -ms-transform 0.75s ease-in-out;
 			transition: opacity 1s ease-in-out, transform 0.75s ease-in-out;
-			opacity: 1;
+			opacity: 0.5;
 		}
 
 		#banner h1 {
